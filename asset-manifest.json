@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mandeep-singh123.github.io/csb-gqbd6/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mandeep-singh123.github.io/csb-gqbd6/static/js/main.8ce77d18.chunk.js",
+    "main.js.map": "https://mandeep-singh123.github.io/csb-gqbd6/static/js/main.8ce77d18.chunk.js.map",
+    "runtime-main.js": "https://mandeep-singh123.github.io/csb-gqbd6/static/js/runtime-main.d16a273b.js",
+    "runtime-main.js.map": "https://mandeep-singh123.github.io/csb-gqbd6/static/js/runtime-main.d16a273b.js.map",
+    "static/js/2.f46da560.chunk.js": "https://mandeep-singh123.github.io/csb-gqbd6/static/js/2.f46da560.chunk.js",
+    "static/js/2.f46da560.chunk.js.map": "https://mandeep-singh123.github.io/csb-gqbd6/static/js/2.f46da560.chunk.js.map",
+    "index.html": "https://mandeep-singh123.github.io/csb-gqbd6/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mandeep-singh123.github.io/csb-gqbd6/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f46da560.chunk.js.LICENSE.txt": "https://mandeep-singh123.github.io/csb-gqbd6/static/js/2.f46da560.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d16a273b.js",
+    "static/js/2.f46da560.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8ce77d18.chunk.js"
+  ]
+}
